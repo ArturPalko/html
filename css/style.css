@@ -1,0 +1,47 @@
+.wrapper {
+  margin: 0 auto;
+  width: 980px;
+  background-color: #777;
+  padding-left: 5px;
+  padding-bottom: 10px;
+}
+
+body {
+  background-color: #333;
+}
+
+.h1_name {
+  text-align: center;
+  color: #aeaeae;
+  margin: 0;
+}
+
+.p_info {
+  margin-left: 15px;
+  font-family: fantasy;
+  color: white;
+}
+
+.info {
+  color: white;
+  font-size: 18px;
+}
+
+li {
+  color: gold;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #444;
+  border-bottom: 1px solid;
+}
+
+img {
+  box-shadow: 5px -4px 2px #fff;
+}
